@@ -3,6 +3,7 @@
   "name": "iRobot Roomba and Braava",
   "codeowners": ["@pschmitt", "@cyr-ius", "@shenxn"],
   "config_flow": true,
+  "version": "1.0",
   "dhcp": [
     {
       "hostname": "irobot-*",
